@@ -1,7 +1,7 @@
 # PaginaWebResponsiva
 
 ## Acesso 👨🏻‍💻
- [Clique aqui para acessar! :)](https://iza2belly.github.io/Pagina-de-Assinatura-Alura/)
+ [Clique aqui para acessar! :)](https://iza2belly.github.io/PaginaWebResponsiva/)
 
 ## Tecnologias 👾
 - HTML
